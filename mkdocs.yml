@@ -1,0 +1,8 @@
+site_name: playlist-example
+site_description: playlist-example
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
