@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: soapraj/playlist-example
     backstage.io/techdocs-ref: github:https://github.com/soapraj/playlist-example
+    sentry.io/project-slug: home-hub
 spec:
   type: website
   lifecycle: experimental
