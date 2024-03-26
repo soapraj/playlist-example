@@ -9,5 +9,5 @@ metadata:
     sentry.io/project-slug: home-hub
 spec:
   type: website
-  lifecycle: experimental
+  lifecycle: experimentaltest
   owner: soapraj
